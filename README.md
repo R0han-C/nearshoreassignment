@@ -1,4 +1,4 @@
-# Nearshore Assignment - MyCurrency
+# Nearshore Assignment - MyCurrency 💲
 
 A Django-based web platform for currency exchange rate conversion, with multiple provider support via the Adapter Design Pattern.
 
