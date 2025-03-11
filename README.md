@@ -306,8 +306,8 @@ mycurrency/
 
 
 ### Screenshot 1
-![Screenshot 1](https://i.ibb.co/k2gsNB92/Screenshot-from-2025-03-12-03-41-40.png)
+![Screenshot 1](https://i.ibb.co/B2V503r2/Screenshot-from-2025-03-12-03-41-40.png)
 ### Screenshot 2
-![Screenshot 2](https://i.ibb.co/B2J3VnKq/Screenshot-from-2025-03-12-03-41-25.png)
+![Screenshot 2](https://i.ibb.co/v4WqxXvZ/Screenshot-from-2025-03-12-03-41-25.png)
 ### Screenshot 3
-![Screenshot 3](https://i.ibb.co/mCf8gNyz/Screenshot-from-2025-03-12-03-41-05.png)
+![Screenshot 3](https://i.ibb.co/tMVXFL2C/Screenshot-from-2025-03-12-03-41-05.png)
