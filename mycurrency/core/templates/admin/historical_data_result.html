@@ -1,0 +1,14 @@
+{% extends "admin/base_site.html" %}
+
+{% block content %}
+<div class="module">
+  <h2>Historical Data Loading</h2>
+  <p>{{ message }}</p>
+  <p>Task ID: {{ task_id }}</p>
+  <p>The data loading process is running in the background. You can check the database for new exchange rates.</p>
+  <div class="submit-row">
+    <a href="{% url 'admin:core_currencyexchangerate_changelist' %}" class="button">View Exchange Rates</a>
+    <a href="{% url 'admin:load-historical-data' %}" class="button">Load More Data</a>
+  </div>
+</div>
+{% endblock %}

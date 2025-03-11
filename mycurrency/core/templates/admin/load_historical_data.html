@@ -1,0 +1,27 @@
+{% extends "admin/base_site.html" %}
+
+{% block content %}
+<div class="module">
+  <h2>Load Historical Exchange Rate Data</h2>
+  <p>This will schedule a background task to load historical exchange rate data.</p>
+  
+  <form method="post">
+    {% csrf_token %}
+    <div class="form-row">
+      {{ form.days_back.label_tag }}
+      {{ form.days_back }}
+    </div>
+    <div class="form-row">
+      {{ form.source_currencies.label_tag }}
+      {{ form.source_currencies }}
+    </div>
+    <div class="form-row">
+      {{ form.target_currencies.label_tag }}
+      {{ form.target_currencies }}
+    </div>
+    <div class="submit-row">
+      <input type="submit" value="Load Data" class="default">
+    </div>
+  </form>
+</div>
+{% endblock %}

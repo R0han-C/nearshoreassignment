@@ -1,0 +1,27 @@
+python3.11 -m venv venv
+source venv/bin/activate
+
+python manage.py createsuperuser
+nearshoresuperuser
+nearshore999
+
+
+http://localhost:8000/admin/currency-converter/
+http://localhost:8000/admin/load-historical-data/
+http://localhost:8000/admin/
+
+
+
+
+
+Todo:
+
+
+1.Change ENV
+2.Clean Notes
+3.Create PDF( Images + Curl)
+4.Create Install Readme.(Install + Curl + Screenshots)
+5.Clean and Push ready.
+
+1.Push
+2.Think what done and what can be done - Finish
